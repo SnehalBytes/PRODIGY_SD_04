@@ -25,3 +25,28 @@ Features include puzzle reset, solution reveal, and a stylish dark-themed UI for
 
 ## Project Structure
 
+- **SudokuValidator.java**  
+  Contains the entire game logic: puzzle generation, Sudoku solver, UI setup with Swing components, and event handling.
+
+---
+
+## Prerequisites
+
+- Java Development Kit (JDK) 8 or higher installed.
+- An IDE like IntelliJ IDEA, Eclipse, or simple command line to compile and run.
+
+---
+
+## How to Run
+
+### Using Command Line
+
+1. Clone or download the repository.
+
+2. Navigate to the project directory containing `SudokuValidator.java`.
+
+3. Compile the Java source file:
+
+   ```bash
+   javac task4/SudokuValidator.java
+
